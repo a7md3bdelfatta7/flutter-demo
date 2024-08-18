@@ -20,6 +20,7 @@ List<Product> sampleProducts = [
       Review(username: 'User2', rating: 1.0, comment: 'It\'s okay.'),
       Review(username: 'User1', rating: 3.5, comment: 'Great product!'),
       Review(username: 'User2', rating: 3.3, comment: 'It\'s okay.'),
+      Review(username: 'User2', rating: 3.3, comment: 'It\'s okay.'),
     ],
   ),
   Product(
